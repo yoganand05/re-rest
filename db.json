@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "First Note",
+      "author": "Daniel Ndirangu",
+      "content": "This is my First note"
+    },
+    {
+      "id": 2,
+      "title": "Second Note",
+      "author": "Jack Sparrow",
+      "content": "This is my second note"
+    },
+    {
+      "id": 3,
+      "title": "Third Note",
+      "author": "Aegon Targaryen",
+      "content": "This is my second note"
+    }
+  ]
+}
